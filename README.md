@@ -5,6 +5,9 @@
 - 🌱 I’m currently learning ... robotics
 - 💞️ I’m looking to collaborate on ... A blooket addon
 - 📫 How to reach me ... put a comment on one of my repositories
+
+
+
 bot working check: [![Discord Rich Presence Activity Badge](https://github.com/mmarchjr/mmarchjr/actions/workflows/discord.yml/badge.svg)](https://github.com/mmarchjr/mmarchjr/actions/workflows/discord.yml)
 <!---
 mmarchjr/mmarchjr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
