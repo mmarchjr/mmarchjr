@@ -1,4 +1,4 @@
-[![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Online?color=61d800&labelColor=434343&icon=discord)](https://github.com/mmarchjr/mmarchjr)
+[![(Script) Discord Activity Badge](https://badgen.net/badge/Discord%20User/Offline?color=545454&labelColor=434343&icon=discord)](https://github.com/mmarchjr/mmarchjr)
 
 - 👋 Hi, I’m @mmarchjr
 - 👀 I’m interested in ...programming, robotics, flying planes
