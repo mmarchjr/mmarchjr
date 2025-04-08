@@ -1,22 +1,18 @@
 # Hi, I'm MMarchjr! 👋
     
 - 👩‍💻 I'm currently working on...
-Scoutradioz Bluetooth communication and form building GUI's
-
+    - Roaring Robotics FRC team 2704's 2025 robot for Reefscape, Presented by Haas
+    - ScoutRadioz
 - 🧠 I'm currently learning...
-Svelte and blockchain development
+Kotlin and CNC Machining
 
-- 👯‍♀️ I'm looking to collaborate on...
-Any of the things I am currently working on
 
-- 🤔 I'm looking for help with...
-Making a Drag and drop form editor that exports json
 
 - 💬 Ask me about... 
-First Robotics Competition
+First Robotics Competition and FRC team 2704
 
 - 📫 How to reach me...
-mmarchjr@proton.me or on discord at mmarchjr
+discord at mmarchjr
 
 - 😄 Pronouns...
 He/They
