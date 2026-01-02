@@ -1,15 +1,7 @@
 # Hi, I'm MMarchjr! 👋
     
-- 👩‍💻 I'm currently working on...
-    - Roaring Robotics FRC team 2704's 2025 robot for Reefscape, Presented by Haas
-    - ScoutRadioz
-- 🧠 I'm currently learning...
-Kotlin and CNC Machining
-
-
-
-- 💬 Ask me about... 
-First Robotics Competition and FRC team 2704
+- Programmer on FRC Team 2704
+- Way too frequent Onshape user
 
 - 📫 How to reach me...
 discord at mmarchjr
